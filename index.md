@@ -10,7 +10,7 @@ title: Portfolio pédagogique
 **[Prénom Nom]** · [Discipline ou domaine] · [Établissement ou contexte]
 
 > Des activités pour apprendre en expérimentant, en échangeant et en prenant du recul sur ses acquis.
-Activité 1 - <a href=""./activite-01/activite-01.md">Visit W3Schools</a>
+Activité 1 - <a href="./activite-01/activite-01.md">Visit W3Schools</a>
 
 [À propos](#à-propos) · [Activités](#activités-pédagogiques) · [Démarche](#ma-démarche) · [Contact](#contact)
 
