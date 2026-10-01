@@ -5,7 +5,7 @@ title: Portfolio pédagogique
 
 <link rel="stylesheet" href="style.css">
 
-# Portfolio pédagogique
+# Portfolio
 
 **[Prénom Nom]** · [Discipline ou domaine] · [Établissement ou contexte]
 
